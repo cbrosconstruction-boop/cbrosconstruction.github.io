@@ -1,0 +1,1 @@
+Add 3–10 project photos to this folder. Replace the placeholder project blocks in index.html with your image filenames when ready.
